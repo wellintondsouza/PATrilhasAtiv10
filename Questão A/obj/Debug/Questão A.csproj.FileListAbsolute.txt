@@ -1,0 +1,8 @@
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Questão A\Questão A\bin\Debug\Questão A.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Questão A\Questão A\bin\Debug\Questão A.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Questão A\Questão A\bin\Debug\Questão A.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Questão A\Questão A\obj\Debug\Questão A.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Questão A\Questão A\obj\Debug\Questão_A.MainForm.resources
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Questão A\Questão A\obj\Debug\Questão A.csproj.GenerateResource.Cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Questão A\Questão A\obj\Debug\Questão A.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Questão A\Questão A\obj\Debug\Questão A.pdb
